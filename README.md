@@ -42,6 +42,7 @@ There is a slight difference between the Average Account Length of the churned a
 #### DISTRIBUTION OF CHURN VERSUS RETAINED CUSTOMERS​
 
 There is a higher number of Retained customers compared to the churn customers. ​
+![Image](https://github.com/user-attachments/assets/75d8ef5b-74f5-4889-8b45-3ef9cccd5439)
 
 #### DISTRIBUTION OF CHURN VERSUS  CUSTOMER SERVICE CALLS ​
 
