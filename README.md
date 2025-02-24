@@ -35,10 +35,6 @@ Average Account Length​
 Service Call Frequency​
   ​
 
-#### DISTRIBUTION OF CHURN VERSUS  ACCOUNT LENGTH​
-
-There is a slight difference between the Average Account Length of the churned and the Retained customers, Although the number of churned customers is still higher​
-
 #### DISTRIBUTION OF CHURN VERSUS RETAINED CUSTOMERS​
 
 There is a higher number of Retained customers compared to the churn customers. ​
