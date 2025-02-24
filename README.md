@@ -51,7 +51,7 @@ This could mean there is poor customer service​
 
 #### DISTRIBUTION OF CHURN VERSUS  ACCOUNT LENGTH​
 There is a slight difference between the Average Account Length of the churned and the Retained customers, Although the number of churned customers is still higher​
-
+![Image](https://github.com/user-attachments/assets/90a43bbc-23f9-4371-b8f2-4769ef4ec242)
 #### KEY FINDING
 
 Random Forest Classifier​
