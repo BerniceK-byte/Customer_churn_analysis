@@ -45,7 +45,7 @@ There is a higher number of Retained customers compared to the churn customers. 
 ![Image](https://github.com/user-attachments/assets/75d8ef5b-74f5-4889-8b45-3ef9cccd5439)
 
 #### DISTRIBUTION OF CHURN VERSUS  CUSTOMER SERVICE CALLS ​
-
+![Image](https://github.com/user-attachments/assets/bbc0b0ed-1467-44bb-aaa1-3a43221c67a1)
 The number of customers who Churn tend to have more complaints .​
 This could mean there is poor customer service​
 
